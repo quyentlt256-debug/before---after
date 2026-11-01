@@ -25,7 +25,7 @@
             width: 100%;
             max-width: 800px;
             /* Chỉnh tỷ lệ khung hình tùy theo ảnh thật của bạn (ví dụ: 16/9 hoặc 4/3) */
-            aspect-ratio: 16 / 9; 
+            aspect-ratio: 3 / 2; 
             overflow: hidden;
             border-radius: 10px;
             box-shadow: 0 10px 20px rgba(0,0,0,0.2);
